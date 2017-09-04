@@ -8,6 +8,10 @@ delightful visual context for reading and can go a long way to making study
 more fun. But the narrative of the comic itself is often rather sparse, and is
 not tuned to a learner's needs.
 
+You can find an interactive version of these sentences at
+<a href="https://wordswing.com/cards/comics">WordSwing</a> or you can download
+them yourself and study however you like.
+
 We thus have started adding our own narrative to accompany the comics that we
 hope will provide some additional reading practice to go along with the comics.
 
