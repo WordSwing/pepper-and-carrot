@@ -17,9 +17,10 @@ hope will provide some additional reading practice to go along with the comics.
 
 ## License
 
-In the spirit of the Pepper and Carrot comic itself, these sentences are also
-licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/). If you use
-these sentences in any project, please provide a link to
+In the spirit of the Pepper and Carrot comic, which is licensed CC-BY, these
+sentences are also licensed
+[CC-BY](https://creativecommons.org/licenses/by/4.0/). If you use these
+sentences in any project, please provide a link to
 [https://wordswing.com/about](https://wordswing.com/about) or a link back to
 this repository. 
 
